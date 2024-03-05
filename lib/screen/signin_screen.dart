@@ -201,8 +201,8 @@ class _SignInScreenState extends State<SignInScreen> {
                   SizedBox(
                     width: 80,
                     height: 80,
-                    child:
-                        MyIconButton(imagPath: 'assets/images/apple_icon.png'),
+                    child: MyIconButton(
+                        imagPath: 'assets/images/apple_iconpng.png'),
                   ),
                 ],
               ),
